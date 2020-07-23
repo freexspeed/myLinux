@@ -1,0 +1,9 @@
+windows:
+c:/windows/fonts
+
+centos
+/usr/share/fonts  //注意控制权限
+建立字体缓存:
+mkfontscale
+mkfontdir
+fc-cache -fv
